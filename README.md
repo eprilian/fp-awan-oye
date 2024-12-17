@@ -2,7 +2,7 @@
     <h1 align="center">FUFUFUFAFAFA</h1>
 </p>
 
-##Final Project Cloud Computing
+## Final Project Cloud Computing
 
 ### Anggota Kelompok
 1. Fajar Khakim                    - 22.83.0773
